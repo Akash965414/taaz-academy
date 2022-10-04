@@ -1,0 +1,72 @@
+
+element {
+
+    margin-bottom: 0px;
+
+}
+h1{
+  background-color: #B9FFF8;
+  text-decoration: underline;
+  font-size: 6rem;
+  margin-top: 0px;
+  text-align: center;
+  padding-bottom: 15px;
+  margin-bottom: 0rem;
+}
+body{
+  background-color: #D2DAFF;
+  margin: 0px 0px 0px;
+}
+.carousel-image{
+  height: 300px;
+  width: 50%;
+  border-radius: 10px;
+}
+#carouselExampleControls{
+  background-color: #D2DAFF;
+  text-align: center;
+
+}
+
+.d-block{
+  height: 500px;
+  width: 1000px;
+}
+p{
+  padding-top: 10px;
+  text-align:center;
+  font-family: 'Montserrat',serif;
+  font-size: 30px;
+  color: #FF4A4A;
+font-weight: bold;
+}
+.para{
+   font-size:20;
+   padding-top:0px;
+}
+h2{
+}
+.notes{
+  padding-top: 10px;
+}
+li{
+  padding-top: 5px;
+}
+.main-body{
+  padding-top: 2%;
+  background-color: #FFD6EC;
+}
+.text{
+  text-align: center;
+  padding-bottom: 5%
+}
+
+@media only screen and (max-width:600px)
+{
+  .text{
+    text-align: left;
+  }
+  .para{
+    text-align: left;
+  }
+}
